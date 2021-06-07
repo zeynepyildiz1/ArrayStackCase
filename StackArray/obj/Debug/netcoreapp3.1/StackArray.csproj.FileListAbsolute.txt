@@ -1,0 +1,13 @@
+C:\Users\Zeynep\source\repos\StackArray\StackArray\bin\Debug\netcoreapp3.1\StackArray.exe
+C:\Users\Zeynep\source\repos\StackArray\StackArray\bin\Debug\netcoreapp3.1\StackArray.deps.json
+C:\Users\Zeynep\source\repos\StackArray\StackArray\bin\Debug\netcoreapp3.1\StackArray.runtimeconfig.json
+C:\Users\Zeynep\source\repos\StackArray\StackArray\bin\Debug\netcoreapp3.1\StackArray.runtimeconfig.dev.json
+C:\Users\Zeynep\source\repos\StackArray\StackArray\bin\Debug\netcoreapp3.1\StackArray.dll
+C:\Users\Zeynep\source\repos\StackArray\StackArray\bin\Debug\netcoreapp3.1\StackArray.pdb
+C:\Users\Zeynep\source\repos\StackArray\StackArray\obj\Debug\netcoreapp3.1\StackArray.csprojAssemblyReference.cache
+C:\Users\Zeynep\source\repos\StackArray\StackArray\obj\Debug\netcoreapp3.1\StackArray.AssemblyInfoInputs.cache
+C:\Users\Zeynep\source\repos\StackArray\StackArray\obj\Debug\netcoreapp3.1\StackArray.AssemblyInfo.cs
+C:\Users\Zeynep\source\repos\StackArray\StackArray\obj\Debug\netcoreapp3.1\StackArray.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep\source\repos\StackArray\StackArray\obj\Debug\netcoreapp3.1\StackArray.dll
+C:\Users\Zeynep\source\repos\StackArray\StackArray\obj\Debug\netcoreapp3.1\StackArray.pdb
+C:\Users\Zeynep\source\repos\StackArray\StackArray\obj\Debug\netcoreapp3.1\StackArray.genruntimeconfig.cache
